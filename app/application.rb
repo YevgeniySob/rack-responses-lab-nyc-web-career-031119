@@ -11,5 +11,8 @@ class Application
     end
     resp.finish
   end
+<<<<<<< HEAD
 
+=======
+>>>>>>> 918d3f3213fe569cbc6e118e3580779c920e4d5b
 end
